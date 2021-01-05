@@ -3,13 +3,26 @@ div.form
     display: block;
     text-align: center;
 }
-form
+form 
 {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    font-size: 25px ;
 }
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #78ba24 !important;
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.form-margin{
+    margin-top: 50px;
+}
+
+.center{
+    justify-content: center;
 }
